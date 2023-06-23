@@ -18,7 +18,7 @@ public class Main {
     }
     public static void main(String[] args) {
         System.out.println("Increment digits are: ");
-        int [] arr = {4,3,2,1};
+        int [] arr = {1,2,3};
         int[]ans=plusOne(arr);
         System.out.println(Arrays.toString(ans));
     }
